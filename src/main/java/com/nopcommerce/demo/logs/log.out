@@ -1,0 +1,2 @@
+2021-06-21 18:06:523 INFO  HomePage :104 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (b5cc8d44739e33347dbf4a74986920bb)] -> xpath: //a[@class='ico-register']]
+2021-06-21 18:06:565 INFO  RegisterPage :31 - Verify Text : [[ChromeDriver: chrome on WINDOWS (b5cc8d44739e33347dbf4a74986920bb)] -> xpath: //h1[contains(text(),'Register')]]
